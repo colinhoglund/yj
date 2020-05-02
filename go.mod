@@ -1,4 +1,4 @@
-module yj
+module github.com/colinhoglund/yj
 
 go 1.14
 
