@@ -13,3 +13,4 @@ Conversion between yaml and json
     yj test.json
     yj test.yaml
     cat test.yaml | yj
+    yj test.json | yj
