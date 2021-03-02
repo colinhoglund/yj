@@ -6,7 +6,7 @@ Simple utility for converting between yaml and json
 
 Installation
 
-    go install github.com/colinhoglund/yj
+    go get github.com/colinhoglund/yj
 
 Conversion between yaml and json
 
